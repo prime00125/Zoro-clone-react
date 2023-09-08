@@ -1,0 +1,92 @@
+#body{
+    height:500px
+}
+.navbar{
+    position: absolute;
+    top:50px;
+    left:200px;
+}
+a:hover{
+    color:greenyellow;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    margin : 0 0 30px 20px;
+  
+    
+}
+#btn{ 
+    width:1200px;
+    height: 50px;
+    position: absolute;
+    top:450px;
+    left:100px;
+    background-color: greenyellow;
+    border-radius: 0 0 60px 60px;
+    text-decoration: none;
+    font-size: large;
+}
+#btn:hover{
+    font-weight: bloder;
+    opacity: 0.8;
+    font-size: 200%;
+}
+input{
+    width:500px;
+    height: 50px;
+    position:relative;
+    top:200px;
+    right: 230px;
+    border-radius: 60px ;
+    padding-left: 20px;
+    font-size: large;
+    font-weight: lighter;
+}
+input:hover{
+    background-color: greenyellow;
+}
+#pic{
+    width:600px;
+    height: 400px;
+    position: absolute;
+}
+#logo{
+    width:50px;
+    height: 40px;
+    position: absolute;
+    top:150px;
+    right:1080px;
+}
+h3{
+    display:flex;
+    position: absolute;
+    top:120px;
+    left:270px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+#HomeSrc{
+    position: absolute;
+    top:200px;
+    width: 50px;
+    height: 50px;
+    border-radius: 60%;
+    left:710px;
+    background-color: greenyellow;
+
+}
+.suggest{
+    width:500px;
+    position: absolute;
+    top:260px;
+    text-align: left;
+    left: 190px;
+
+}
+.videos{
+    color:grey;
+    
+}
+
